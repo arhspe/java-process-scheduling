@@ -5,7 +5,7 @@ Simulação do algoritmo de escalonamento **Round Robin** desenvolvida para a di
 ### Sobre o Projeto
 O código simula como um Sistema Operacional gerencia a execução de múltiplos processos utilizando o conceito de **Quantum** (fatia de tempo). O objetivo é demonstrar a alternância de tarefas e o controle do tempo restante de cada processo em uma fila.
 
-> Este código foi fornecido pelo professor da disciplina como base para o estudo de **Chaveamento Circular** e alternância de contexto.
+> Este código foi fornecido pelo professor da disciplina como base para o estudo de escalonamento Round Robin (chaveamento circular) e alternância de contexto. Realizei apenas algumas adições de comentários no arquivo `Main.java`.
 
 ### Estrutura do Código
 
